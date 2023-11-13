@@ -1,0 +1,3737 @@
+[
+    {
+        "name": "cyra",
+        "price": 100,
+        "location": "shelf5"
+    },
+    {
+        "name": "pentop40",
+        "price": 500,
+        "location": "shelf3"
+    },
+    {
+        "name": "parastmol",
+        "price": 50,
+        "location": "shelf-4"
+    },
+    {
+        "name": "cyrad",
+        "price": 50,
+        "location": "shelf-5"
+    },
+    {
+        "name": "Pentop",
+        "price": 60,
+        "location": "shelf-5"
+    },
+    {
+        "name": "kalpal10",
+        "price": 100,
+        "location": "shelf-4"
+    },
+    {
+        "name": "zeroidal sp",
+        "price": 50,
+        "location": "shelf-5"
+    },
+    {
+        "name": "Zerodal",
+        "price": 200,
+        "location": "shelf-6"
+    },
+    {
+        "name": "evon 200",
+        "price": 40,
+        "location": "shelf-6"
+    },
+    {
+        "name": "silocap-d",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "silocap-8-",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "wind cal",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "writing -d.",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "auxi soda -ds",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "panladay-L",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "etorimac-TH",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "sibelium-10mg",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "oxom-20",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "stugeron-plus",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "silodosia-8d",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "silodosia 8",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "silodosia sf",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "remocrEs",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "kmb 6",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "nOTHIP-PgnM",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "nortrip-10",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "dVn forte",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "dUn 80",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "dVn 40",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "dUn Plus",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "nortrip Pg-37.5",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "flavale",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "cal-Md3",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "glucomet 850",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "Lorim-d",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "spas rex-",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "urinif-sr",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "uritin",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "Ecospin 75",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "folk-s",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "verpilo",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "glucoMIET 850 sr",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "trigly nase 2 porte",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "glymase mf",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "reto 400",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "rete boo",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "tariglynase-1",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "glynase 500 sr",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "telzin- 3d",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "ecosporn- av 75",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "ecosporn av-150",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "ecosporn av 150/20.",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "ecosporn av. 75/20",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "ecosporn 150",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "digene.",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "tas sitalent-m50/son",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "ta",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "magni best",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "renoalfa",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "reno save",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "cosid- dsr",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "preega. nt",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "cosid yo",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "telmital - ct",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "glimital-m2",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "ephedrex-",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "candid.",
+        "price": 100,
+        "location": "Ethical items"
+    },
+    {
+        "name": "proshaft shampo",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "mucain gel lif",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "dafilac byp",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "eigene gel",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "camuftim. plane",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "camuftim plus",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "recasull 2",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "recasull pla",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "medral- 8.",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "medral -16",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "salacim-c 150",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "medral. 4",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "dalacin-c 150",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "amlogus 2.5",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "amlogus 5",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "amlogus 10",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "amaryl- 2",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "minipex-xl 2.5",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "minipex-xl 5",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "darid-100.",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "preamarim-6.625",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "preamarim 0.3mg",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "metocald-x1 25",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "nexpro fast 40",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "nexpro fast it",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "tide 5",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "tide 10",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "it rd20",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "r-ppl",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "mumfer mak",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "topsid 40",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "levazeo 25",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "pregalim 50",
+        "price": 100,
+        "location": "Shelf-2"
+    },
+    {
+        "name": "unwanted 72",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "shell",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "justin 100",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "you suffs",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "librum d",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "night gold cream",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "night gold box",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "18-",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "sonda oil",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "manforce 100",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "flufre 150",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "glycerin sol 375",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "glycerin sol 200mg",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "glycerin sol 110mg",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "glycerin sol 50mg",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "today nonoxynigin",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "cal best-d3",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "volta d3",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "glycelol os 500",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "glycelol os 400",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "pantatoc.d",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "vasaliona - arabia",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zen flox-uti",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "logivir- sq 1200",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "amlo kind. 5",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "amlo kind at",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "nurodol-md'",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "panta kind flex",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "thrize ds",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "thrize plus",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zifi-200",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zifi 100 dt",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "menoctyl 400",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "m-lobe - 400",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "amlokind-ḥ.",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "endorsis,2mg",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "freelex plus",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "montais-le-keit",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "nurokind-gold ra",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zifi 50 syp",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zifi 100 syp",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zifi drops",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "cetjoint-forte",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "random-mps",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "unienzyme plus",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "raciraft sys",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "romispas tas",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "cystone",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "laxi-free plus",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "flo fresh 200",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "azitough 500",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "man force 50",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "calcilus-plus",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "levozel-m",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "ignore-72",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "unimoxcu 625",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "montair-lc",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "bandy-plus",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "lanzol. juniors",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "chymoral plus",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "shelcal 250",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "lanzol- 15 junior",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "b-long",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "b-long f",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "novamoo 250 dt",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "shelcal xt",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "shelcal-500",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "shelcal-m",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "shelcal -ct",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "chymoral. af",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "shelcal-hd",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "autrin. cap",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "meftal spas",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zyloric-300",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "amiprce-40",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "betnesol - tas",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "digoxim-tai 0.25",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zenflox-oz",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "atarock. 25",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "herpikind 800",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "amodel-at",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "nurokind-lc",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "unienzyme",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "pyridium 200",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "ovral-c",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zenflex 200",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "nefrozen",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "z41oric 300",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "ralekord-plus",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "sucramol-o",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "eltroxin 25",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "eltroxin 50",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "eltroxin 75",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "eltroxin 100",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "gariex",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "lukol",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "confid",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "pilex",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "alerid",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "asthalim",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "osticalcium",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "shalcal syp",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "novamox drops",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "liv 52 ds",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "liv 52 plan",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "seftilim",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "liv 52 tab",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "augmentin 500",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "augmentin dps",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "augmentin es",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "zental syp",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "novamox cv 625",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "augmentin 625",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "augmentin 1000",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "crucin 650",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "crucin 500",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "calpol 500",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "asthalin 2",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "theo asthalim",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "ciplox tz",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "ciplox 500",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "novamox 500",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "novamox 250",
+        "price": 100,
+        "location": "Shelf-8"
+    },
+    {
+        "name": "omegasite",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "haisr limi+",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "tomoferroh",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "lice hept-",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "pantaloc 40.",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "minadil-5",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "sunshade lot",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "top grape loem",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "top grape 15em",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "calciway nanish",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "glycerin- l00ml",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "lyco joy syp",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "deezee n/short",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "crope bandage cotton",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "a to z cap",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "v. total tab",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "visco gel",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "dinzyme tab",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "evion-lc",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "livogen-z",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "livogen plan",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "smastuita-",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "breath bliss",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "esotreat-40",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "panlice 40",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "joint weld k27",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "regasa nt",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "acelice sr.",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "cefocrest 100 dt",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "tranrol-mf",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "etodash-th",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "monteblist-la",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "alcirox k27",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "licecid 600",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "leecrime-a",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "relikast fxa",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "cefismast-o",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "foliscore",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "alka fresh",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "picolux",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "hairline 5%",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "mega case 369",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "hrocap-200",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "mucu shield",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "montemost-fx",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "flochek-mf",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "tram lice-mf",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "bisflow",
+        "price": 100,
+        "location": "Generic -> Shelf-7"
+    },
+    {
+        "name": "teczine 500mg",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "tecrime-lomg",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "triolmighty",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "tele act am",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "teleact-ct-40",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "rosuvas-5",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "tele act-b-25",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "sompraz-40",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "sompraz-it",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "pantocid-dsr",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "nap roate-d 250",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "axogurd-sr",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "axogurd-nt",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "somprar-l.",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "tele act-d",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "istamet- 50/500",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "teleact 20",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "evion-400",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "evion-200",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "evion-600",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "neurosion-forte.",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "polybion active large",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "polybion active small",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "osto polybicn",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "polybion ls",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "cosome cough syp",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "bestozyme sf syp",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "ph. norm syp",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "реnтор mps",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "aristozyme lig",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "v-total. syp",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "cacopin-lig",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "geofit fuia",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "geriflo-d",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "mirtaz -15",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "wysolone 5",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "wysolone 20",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "rozavel-10",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "gemcal d3",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "glucoryt-m2",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "glimisave-mv1",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "alerfix-m",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "zanocin 200",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "zomelis met 50/500",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "jalra-m 50/500",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "zomelis met 50/500",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "roliten-084",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "rosu var- 40",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "rosu var 10",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "rosu var 20",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "gemcal plus",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "contiflo-icon 0.4",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "tayo 60k",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "teleact 40",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "glisen mfi",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "glisen mf2",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "glisen mf-forte1",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "metosartan-50",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "geri joint",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "nexdom 250",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "metarartan-25.",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "max galin-150",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "raciper 40",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "sebifin",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "naprowel-forte",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "sompraz 20",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "pantocid 40",
+        "price": 100,
+        "location": "Shelf-7"
+    },
+    {
+        "name": "titer syp",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "glimisave mv2 fas",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "taxim of",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "alerfix-total",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "taxim-o-200",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "glucoryl-m1",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "neurokem-75",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "tolokem-d",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "tolokem plane",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "oncet-3d",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "glimi save-m1",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "glimi save -m2",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "glimi save-mv2",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "reunion 30",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "rlv-",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "storvas 40",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "piclin-",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "gluxit-trix 10/100/1000",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "revital-h",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "eva q-plus",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "r-b-tone",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "oxetel-450",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "eritel -h",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "eritel am.",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "eritel 40",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "remylin-d",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "tsart-am",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "axoguart-nt",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "mac rusonik",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "tellzy mt-50",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "tellzy mt 25",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "sompa -l",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "synapto1-100",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "mirtaz - 2.5",
+        "price": 100,
+        "location": "Shelf-6.4"
+    },
+    {
+        "name": "pan -c",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "pan- it",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "pan -d",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "pan junior",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "neuro kem-plus.",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "switch-cv-325",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "switch-cv 200",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "gemcal",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "muco bar a.",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "valkem od-500",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "temsem-40",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "temsem-20",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "valkem od-750",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "pentansu- nt-400",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "flodart - plus",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "rosave-f5.",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "rosave 10",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "migra bete plus",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "barif -7.5",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "eritel-40",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "eritel ch-40",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "rifaxigyl-200",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "neurokem d-75/30",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "glisen-mf-forte 2",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "gema-v2",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "glisem - mf fort 1",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "a to z syp",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "swich. drops",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "swich 100",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "swich -50",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "co2",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "piclin kit",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "taxim o drops",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "gemecall syp",
+        "price": 100,
+        "location": "Shelf-6.3"
+    },
+    {
+        "name": "isryl -m2",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "isryl -m1",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "xilia-m1",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "meco fol- plus-nf",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "tellzy-am",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "tellzy-40",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "tellzy -h",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "meganeusm-odt",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "pentanerv-nt",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "polybin czs",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "muciday n",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "reboot-l",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "reboot-l 25",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "reboot-l 20",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "dompan sr",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "dompan-plane",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "torfix-200",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "rifaxigyl 400",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "ondem-md 4",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "ondem-md 8",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "myond-10",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "geripod d 8",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "geropod 8",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "02-tas",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "anxipan",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "rifaxigly - 400",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "rifaxigly m",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "meganeusrn pg",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "pan-80",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "es0z 40",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "migrabeta -тr40",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "revas- h",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "revas 50",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "revas 25",
+        "price": 100,
+        "location": "Shelf-6.2"
+    },
+    {
+        "name": "rabopep -20",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "tranostat-mf",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "enzozest- d",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "levoiz -5mg",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "levoiz-10mg",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "famcool-d",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "famcool-40",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "new tes am 40/5",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "topp- d",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "cyra-d",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "num",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "levolac-m",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "tranostal",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "supaspas",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "pio plus -1",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "ameorat. 5",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "ameorat 40",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "immo press -d30",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "unofen-k",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "amcart -at",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "pioplus-2",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "cyta-it",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "com-d3 strong",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "levotac-m",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "levotac 5mg",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "lyser-5",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "lyser 20",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "lyser-ap",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "lyser-forte",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "glucoryl-m2",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "glimisave -m2 forte",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "glimisave  mi forte",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "isryl-mi forte",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "isryl- m2 forte",
+        "price": 100,
+        "location": "Shelf-6.1"
+    },
+    {
+        "name": "grafewax",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "coldkime",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "respito-",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "respito-ax",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "shootalty",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "caldish",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "cyclowave",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "l-cin-iv",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "ciproken",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "oftomac iv.",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "calilose-2",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "rabaloc-4",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "cozymin",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "raxight 200",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "mycowin -h 0.20.",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "setcum -500",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "thedoximev",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "bilarad-m",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "vrispan",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "martifa",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "lyse-d",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "protin",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "rifafit -400",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "rasisteth d 50",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "milcet 250",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "milcet 500",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "mobijoint -d",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "copar",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "cyrails",
+        "price": 100,
+        "location": "Shelf-6.0"
+    },
+    {
+        "name": "glycerine",
+        "price": 100,
+        "location": "Shelf-5.4 (generic)"
+    },
+    {
+        "name": "body lotion",
+        "price": 100,
+        "location": "Shelf-5.4 (generic)"
+    },
+    {
+        "name": "ondefres",
+        "price": 100,
+        "location": "Shelf-5.4(Generic)"
+    },
+    {
+        "name": "dola fresh",
+        "price": 100,
+        "location": "Shelf-5.4(Generic)"
+    },
+    {
+        "name": "colitreat",
+        "price": 100,
+        "location": "Shelf-5.4(Generic)"
+    },
+    {
+        "name": "respijoy-d.",
+        "price": 100,
+        "location": "Shelf-5.4(Generic)"
+    },
+    {
+        "name": "aziwalk 500",
+        "price": 100,
+        "location": "Shelf-5.4(Generic)"
+    },
+    {
+        "name": "calami",
+        "price": 100,
+        "location": "Shelf-5.4(Generic)"
+    },
+    {
+        "name": "love guard",
+        "price": 100,
+        "location": "Shelf-5.4(Generic)"
+    },
+    {
+        "name": "pixox-ml",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "drotin ml",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "avil -ml",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "dolonex- 2 ml",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "pem. 150ml",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "gentamych 80",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "protobol -25",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "protobol -50",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "corvit -gon.",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "neurobion forte",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "lynx-",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "kenacort-10",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "kenacort-40",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "buscopan",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "nvm forte",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "dexona.",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "placentrex",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "voveran",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "corvit-memg",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "ondem. 2ml",
+        "price": 100,
+        "location": "Shelf-5.4"
+    },
+    {
+        "name": "thyronorm 100",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "thyronorm 50",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "thyronorm 75",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "capex exp",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "dexodil-sr",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "cypon",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "levotac-m-kid",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "metadoze-1pr.850",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "metadoze 1pr-500",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "sinarest",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "kefodime-cv-50",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "kefodime -50",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "bigomet -sr-500",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "amlosafe 2.5",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "bigomet -500",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "melsone-16",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "lycortin-s",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "nexpro-iv",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "pantop -40 iv",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "superspar iv",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "lomoh-40",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "pantodac - iv",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "keftragard - 15000",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "monocef-1gm",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "monocef-500mg",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "calcium sandoze",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "myoril inj",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "testoretand 250",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "neurokind-plus-nf",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "gravidol-20",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "protodac-25",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "transtate-inj",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "neurokind gold",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "thimin. inj",
+        "price": 100,
+        "location": "Shelf-5.3"
+    },
+    {
+        "name": "a to z drops",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "colimex- df drop",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "heptaglusion",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "jubiglim-m2",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "jubiglim-m1",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "osteofit-hd",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "walamycin-ds",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "diovol syp",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "diovol la-syp",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "reapra 10",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "oliza-10",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "lopez-md 1",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "duvanta np-20",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "trip tomer-25",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "napra-d-500",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "napra-d -250",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "frext-50",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "carca- 6.25",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "colimex syp",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "colimex drops",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "simarest-af",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "iso flav-cs",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "esiresp-cs",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "ventex-d",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "copar",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "supracof-d",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "sinarest-pd",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "sinarest syp",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "resporex-xt",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "moreplex syp",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "nurgardim - syp",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "sinarest-af",
+        "price": 100,
+        "location": "Shelf-5.2"
+    },
+    {
+        "name": "cycloset syrup",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "abdospas- drops",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "supracal 2000",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "respira syp",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "ambrolite-d",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "sazo 1000",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "donep 5",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "itaphyte-200",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "eternex-m 500",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "enzletra-ds",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "ulgel gel",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "ulgel a-gel",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "rasalkem-it",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "rasalkem-ls",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "zeet-cough fre",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "zeal-dx",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "bro-zeet-ls",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "neopeptine-liq.",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "neopeptine drops",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "ugestic tab",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "sazo-500",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "ed-to- cap",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "ovarys -tab",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "temran-ct 40",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "gastracid liq",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "calcimax-p",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "calcimax +",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "glipy met-500",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "azithral -500",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "azithral-250",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "ceham",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "donep",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "potrate mb6",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "uprise d3 60",
+        "price": 100,
+        "location": "Shelf-5.1"
+    },
+    {
+        "name": "colospa -x",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "bactrum ds",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "clome -50",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "neeri syp. big",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "neeri syp small",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "bactrum-ds",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "flague",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "listerine cool",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "kenacort 46",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "lasodine gargle",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "orasmuth gargle",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "osta de nanosum",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "povifresh",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "acifix-3x",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "fesozyme",
+        "price": 100,
+        "location": "Shelf-4.5"
+    },
+    {
+        "name": "stemetil. md 5mg",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "tenlimac-m-100",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "tenginow-m-1000",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "snapit-85/501.",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "acifrom -3mg",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "acifrom -4mg",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "colospa retard",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "mazeto1-sr-400",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "mazeto1-sr-200",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "febuzat-40",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "omnacortil-40",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "flagye - 400",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "flagye-200",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "myospas-500/250",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "vit-a.",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "uditiv-150",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "uditiv-300",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "enliva",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "veltim 8(1009 bn)",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "veltim 8(1005 bn)",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "veltim 16(22022 bn)",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "omnacortil-30",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "omnacortil-20",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "omnacortil-10",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "omnacortil-5",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "cyp-l-syp",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "zincoseas",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "evict",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "dubinor- las- 0.75",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "avomin -25",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "bilovas",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "tefacne-20",
+        "price": 100,
+        "location": "Shelf-4.4"
+    },
+    {
+        "name": "cremalax tus 100mg",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "amtovas-h",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "amtovas-5",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "amtovas-2.5",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "amtovas -10",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "maczeal",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "defcort -tm",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "defcort-30",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "defcort-24",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "bio-d3 strong",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "geminor-m-2",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "geminor-m1",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "tendomae",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "levomac 500",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "levomac 750",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "tenlimac-20",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "montemac-l-kid",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "montemac-l",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "montemac-al",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "enzomac",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "macsart-am",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "enzoheal-d",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "enromac plus",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "enzo heal",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "garion-100/50",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "zolfresh -10",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "zolfresh-5",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "librium to",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "depsonil -25",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "ganaton-50",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "crem -25000",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "gardenol-60",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "caloptimn -120 sr",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "flagye-400",
+        "price": 100,
+        "location": "Shelf-4.3"
+    },
+    {
+        "name": "polyclav-625",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "nupenta cp",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "vildamac 50/500",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "vildamac 50/1000",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "trimexovas-20",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "macprox-dp-250",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "nupent -ls",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "myosone-plus",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "machata- ch-40",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "defcort  12",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "defza. 12",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "macsart 40",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "macsart 20",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "ommacortil-30",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "macfast-650",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "macfast-500",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "toflexabenz-plus",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "nexovas-5",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "rabemac-20",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "nexovas-20",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "nexovas-10",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "nexovas-5",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "orcerin- gm",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "rebagen.",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "esofine dsq",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "rupired",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "macped-16",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "nuреnта 40mg",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "oflomac 200",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "montemae-fx.",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "bio-d3-fem",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "bio-d3-max",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "bio-d3-plus",
+        "price": 100,
+        "location": "Shelf-4.2"
+    },
+    {
+        "name": "triolmesar- 20",
+        "price": 100,
+        "location": "Shelf-4.2"
+    }
+]
