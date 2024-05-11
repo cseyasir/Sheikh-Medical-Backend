@@ -3,9 +3,7 @@ const http = require('http');
 const fs = require('fs');
 const cors = require('cors'); 
 const port = 5000;
-if (!fs.existsSync(medicines.json)) {
-  fs.writeFileSync(medicines.json, '[]', 'utf8');
-}
+
 const server = http.createServer((req, res) => {
   cors()(req, res, () => {
   if (req.method === 'GET' && req.url === '/medicines') {
